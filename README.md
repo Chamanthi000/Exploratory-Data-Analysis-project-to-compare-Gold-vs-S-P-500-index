@@ -2,4 +2,9 @@
 
 An Exploratory Data Analysis project to compare Gold vs S-P 500 index
 
-![](https://images.pexels.com/photos/6770774/pexels-photo-6770774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+
+
+![newplot](https://user-images.githubusercontent.com/45826511/225728888-6b91ce83-ee43-4ea1-959a-9d93762664cb.png)
+![newplot (1)](https://user-images.githubusercontent.com/45826511/225728965-7057db97-80e7-4d38-a7c7-c2c411289afc.png)
+![newplot (2)](https://user-images.githubusercontent.com/45826511/225729110-3e7c7dd2-1f64-451b-b42d-2c9e01702e1a.png)
