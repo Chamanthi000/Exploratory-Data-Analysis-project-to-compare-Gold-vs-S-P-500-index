@@ -3,35 +3,65 @@
 An Exploratory Data Analysis project to compare Gold vs S-P 500 index
 
 Index Of Contents
+
 · Introduction
+
   ∘ What is EDA?
+	
   ∘ What is the S&P 500?
+	
   ∘ How to run the code
+	
   ∘ Outline of Project
+	
   ∘ Import and Install the required libraries
+	
   ∘ Download real-world dataset
+	
   ∘ Perform Data Preprocessing and Cleaning
+	
   ∘ Remove unwanted Columns
+	
   ∘ Transform the DataType
+	
   ∘ Handle Missing Values
+	
   ∘ Duplicate data
+	
   ∘ Set Proper Index
+	
   ∘ Create additional Required Columns
+	
   ∘ Perform Exploratory Analysis and Visualization
+	
   ∘ Analyze Closing Price
+	
   ∘ Analyze Trade Volume
+	
   ∘ Analyze the distribution
+	
   ∘ Calculate & Analyze Returns
+	
   ∘ Moving Average
+	
   ∘ Ask  and Answer Interesting Questions
+	
   ∘ Q1: What was the impact on prices during COVID 19 Outbreak, Does gold crash with the stock market?
+	
   ∘ Q2: Is there any Correlation between S&P 500 and Gold
+	
   ∘ Q3: Does Gold Beat S&P 500?
+	
   ∘ Q4: Calculate all Year end to Date Returns
+	
   ∘ Q5: Which asset is more Volatile
+	
   ∘ Inferences
+	
   ∘ Future Work
+	
   ∘ References
+	
   ∘ Conclusion
 
 
